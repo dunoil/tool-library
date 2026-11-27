@@ -1,4 +1,5 @@
-# Competition submission, TOOL LIBRARY (to be posted 27 Nov 2026)
+# Competition submission, TOOL LIBRARY (posted 27 Nov 2026)
+Discussion: https://github.com/hyper-elements/hyper-elements/discussions/367
 
 Target: GitHub Discussions, **Challenge Submissions** in `hyper-elements/hyper-elements`
 Repository: https://github.com/dunoil/tool-library
